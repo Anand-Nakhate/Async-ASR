@@ -1,0 +1,6 @@
+Package: asr
+Version: 1.0
+Section: unknown
+Architecture: amd64
+Maintainer: Desmond
+Description: asr gui

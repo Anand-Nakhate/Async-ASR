@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+recordings/
+*.wav
+*.WAV
+configs/
+newvenv/
+*.stm
+*.srt
+*.TextGrid
+VideoLan/
+dist/
+build/
+.vscode/
+packaging/ubuntu/Asr/opt
+packaging/win/Output

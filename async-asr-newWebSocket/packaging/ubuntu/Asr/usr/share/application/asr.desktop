@@ -1,0 +1,5 @@
+[Desktop Entry]
+Name=Asr
+Exec=/opt/asr/asr
+Icon=/opt/asr/icons/ASR.png
+Type=Application

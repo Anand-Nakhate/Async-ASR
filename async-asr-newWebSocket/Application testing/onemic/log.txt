@@ -1,0 +1,18 @@
+audio/x-raw, layout=(string)interleaved, rate=(int)16000, format=(string)S16LE, channels=(int)1
+Start transcribing... 2
+called
+posting text:  okay.
+posting text:  hello.
+called
+posting text:  okay.
+posting text:  welcome to another test.
+called
+posting text:  so this is a big message.
+called
+called
+posting text:  okay.
+total time: 59.891067028045654
+okay. hello. okay. welcome to another test. so this is a big message. okay.
+called
+mprof: Sampling memory every 0.1s
+running as a Python program...

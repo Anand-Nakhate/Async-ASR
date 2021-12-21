@@ -1,0 +1,7 @@
+    INFO 2021-08-04 10:37:58,277 Start session for :8 channel 1 
+    INFO 2021-08-04 10:37:58,540 connection established mic: 8 channel 1 
+    INFO 2021-08-04 10:39:29,786 End session :8 channel 1 
+    INFO 2021-08-04 10:39:29,788 =======Error Summary======= 
+    INFO 2021-08-04 10:39:30,736 Websocket Discconnected: 8 channel 1 Trying time:0
+ 
+    INFO 2021-08-04 10:40:31,352 connection established mic: 8 channel 1 

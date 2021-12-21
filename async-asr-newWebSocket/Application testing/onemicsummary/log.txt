@@ -1,0 +1,41 @@
+audio/x-raw, layout=(string)interleaved, rate=(int)16000, format=(string)S16LE, channels=(int)1
+Start transcribing... 2
+called
+mprof: Sampling memory every 0.1s
+running as a Python program...
+audio/x-raw, layout=(string)interleaved, rate=(int)16000, format=(string)S16LE, channels=(int)1
+Start transcribing... 2
+posting text:  hello.
+posting text:  okay.
+posting text:  dester.
+called
+posting text:  hello.
+posting text:  welcome to another.
+called
+posting text:  okay.
+called
+called
+called
+posting text:  one minute of silence.
+called
+posting text:  oh.
+posting text:  okay.
+called
+total time: 71.0202043056488
+hello. okay. dester. hello. welcome to another. okay. one minute of silence. oh. okay.
+________________requestsent____________
+called
+called
+called
+called
+called
+called
+called
+called
+called
+<Future at 0x7eff54137f28 state=finished returned Response>
+called
+called
+waiting
+mprof: Sampling memory every 0.1s
+running as a Python program...

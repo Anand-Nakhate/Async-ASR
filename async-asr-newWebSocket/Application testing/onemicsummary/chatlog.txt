@@ -1,0 +1,9 @@
+1 : Hello.  : 15:31:53
+1 : Okay.  : 15:31:57
+1 : Dester.  : 15:31:58
+1 : Hello.  : 15:32:02
+1 : Welcome to another.  : 15:32:06
+1 : Okay.  : 15:32:12
+1 : One minute of silence.  : 15:32:46
+1 : Oh.  : 15:32:53
+1 : Okay.  : 15:32:58
